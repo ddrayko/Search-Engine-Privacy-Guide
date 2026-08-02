@@ -297,4 +297,12 @@ Privacy isn't about hiding wrongdoing, it's about controlling who gets to build 
 
 ---
 
+**Research:** Perplexity and myself
+
+**Writing:** Claude and myself
+
+**Sentence rephrasing:** Claude
+
+---
+
 *This comparison focuses specifically on privacy, not raw search relevance, ethical business practices, or environmental impact, though those are noted where they intersect with privacy behavior (e.g., ad-funded models).*
