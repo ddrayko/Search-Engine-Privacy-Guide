@@ -6,7 +6,6 @@ A deep, no-nonsense comparison of search engines through a **privacy-only lens**
 
 ![Markdown](https://img.shields.io/badge/format-Markdown-blue)
 ![Privacy](https://img.shields.io/badge/focus-Privacy-success)
-![Language](https://img.shields.io/badge/language-English-lightgrey)
 
 ---
 
